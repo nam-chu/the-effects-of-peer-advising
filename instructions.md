@@ -1,10 +1,10 @@
 The objectives of this assignment are as follows:
 
-Sections
+## Sections
 1) Title page
-  a) Name and Student Number
+ a) Name and Student Number
 2) Introduction
-  a)  
+ a)  
 4) Data Description
 5) Empircal Analysis
 6) Conclusions
