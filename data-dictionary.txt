@@ -1,4 +1,4 @@
-|Variable|Obs|Unique|Mean|Min|Max|Label
+Variable       Obs Unique      Mean  Min   Max  Label
 ----------------------------------------------------------------------------------------------------------------------------
 GPA_year1     1537    342  1.786714    0     4  1st year GPA
 GPA_year2     1368    325  2.043143    0     4  2nd year GPA
