@@ -16,6 +16,8 @@ The objectives of this assignment are as follows:
    - at least one graph/table describing the main variables
      
 4) Empirical Analysis
+   - clearly outline the empirical strategy used to address the question
+   - your analysis should be directly relevant to the question that you are addressing and you should clearly explain how it is relevant and what conclusions you draw from any graphs or tables you present
    - Label / number all graphs and tables
    - use outreg output table to show regression results
 
