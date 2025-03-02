@@ -5,4 +5,8 @@
   1) Service Strategy: Student Support Program (SSP)
   2) Incentive Stategy: Student Fellowship Program (SFP)
   3) Both: SFSP (Student Fellowship and Student Program)
+- students in the treatment group were randomly assigned and asked to sign-up for one of the three services. They were presumably not told beforehand which one.
+    - SSP: 55%, SFP: 87%, SFSP: 79%
+
+### Service Strategy: SSP
 - 
