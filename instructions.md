@@ -24,3 +24,5 @@ The objectives of this assignment are as follows:
 5) Conclusions
 6) Data Appendix
    - include all relevant steps to clean and prepare your data
+   - **Make sure to check all variables**
+   - **How to make sure that all variables have reasonable values**
