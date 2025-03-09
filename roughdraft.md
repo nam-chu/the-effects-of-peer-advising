@@ -14,4 +14,6 @@
 - 250 students were offered SSP including peer advising and facilitated study groups
 - 150 students were also offered it in the SFSP
 - there were 21 female peer advisors and 8 male
-  
+
+### Methodology
+- The empirical tool that will be used to investigate the relationship between 
