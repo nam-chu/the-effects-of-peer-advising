@@ -38,3 +38,6 @@ In order to estimate any causal effect, three assumptions must hold: exchangeabi
 - No spillover effects (part of SUTVA)
 
 I will focus on parallel trends here and that the treatment and control groups are similar. 
+
+<hr>
+
