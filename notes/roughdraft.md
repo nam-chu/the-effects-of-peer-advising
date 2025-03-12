@@ -17,3 +17,11 @@
 
 ### Methodology
 - The empirical tool that will be used to investigate the relationship between 
+
+Example: What is the impact of participating in student support services on GPA?
+- Treatment: participation in the student support program
+- Groups: No participation in the student support program (control), participation in the student support program (treatment)
+- The two groups of students are otherwise similar
+- Outcome (Y): % change in GPA
+
+
