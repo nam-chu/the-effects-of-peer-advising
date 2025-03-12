@@ -23,5 +23,16 @@ Example: What is the impact of participating in student support services on GPA?
 - Groups: No participation in the student support program (control), participation in the student support program (treatment)
 - The two groups of students are otherwise similar
 - Outcome (Y): % change in GPA
+<hr>
 
+[Difference in Difference Columbia University](https://www.publichealth.columbia.edu/research/population-health-methods/difference-difference-estimation)
+In order to estimate any causal effect, three assumptions must hold: exchangeability, positivity, and Stable Unit Treatment Value Assumption (SUTVA)1
+. DID estimation also requires that:
 
+Intervention unrelated to outcome at baseline (allocation of intervention was not determined by outcome)
+
+Treatment/intervention and control groups have Parallel Trends in outcome (see below for details)
+
+Composition of intervention and comparison groups is stable for repeated cross-sectional design (part of SUTVA)
+
+No spillover effects (part of SUTVA)
