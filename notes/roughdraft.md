@@ -26,13 +26,15 @@ Example: What is the impact of participating in student support services on GPA?
 <hr>
 
 [Difference in Difference Columbia University](https://www.publichealth.columbia.edu/research/population-health-methods/difference-difference-estimation)
-In order to estimate any causal effect, three assumptions must hold: exchangeability, positivity, and Stable Unit Treatment Value Assumption (SUTVA)1
+In order to estimate any causal effect, three assumptions must hold: exchangeability, positivity, and Stable Unit Treatment Value Assumption (SUTVA)
 . DID estimation also requires that:
 
-Intervention unrelated to outcome at baseline (allocation of intervention was not determined by outcome)
+- Intervention unrelated to outcome at baseline (allocation of intervention was not determined by outcome)
 
-Treatment/intervention and control groups have Parallel Trends in outcome (see below for details)
+- Treatment/intervention and control groups have Parallel Trends in outcome (see below for details)
 
-Composition of intervention and comparison groups is stable for repeated cross-sectional design (part of SUTVA)
+- Composition of intervention and comparison groups is stable for repeated cross-sectional design (part of SUTVA)
 
-No spillover effects (part of SUTVA)
+- No spillover effects (part of SUTVA)
+
+I will focus on parallel trends here and that the treatment and control groups are similar. 
